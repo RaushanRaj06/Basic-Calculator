@@ -1,4 +1,4 @@
 # Basic-Calculator
 This is my first git project.
 <br>
-Author - Raushan 
+Author - Raushan Raj
