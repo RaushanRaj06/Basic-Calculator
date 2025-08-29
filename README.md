@@ -1,2 +1,2 @@
 # Basic-Calculator
-This is my first project.
+This is my git project.
