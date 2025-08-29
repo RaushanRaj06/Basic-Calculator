@@ -1,2 +1,3 @@
 # Basic-Calculator
-This is my git project.
+This is my first git project.
+
